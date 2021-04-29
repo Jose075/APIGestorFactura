@@ -1,0 +1,13 @@
+Integrantes: Jose guillermo cordero garcia #2018-6319
+Yeison Ricardo Siri Mejía: #2018-7361
+
+Esta es una API para Facturas con implementación clean architecture
+
+Si quiere probar la API puede hacerlo usando
+
+"RutadelLocalHost"/api/ControladorFactura
+
+cuando ejecute el programa se abrirá en el navegador, copia el link y le pone
+/api/ControladorFactura
+
+Dejaré algunas capturas de pruebas en postman y en Nswagger
