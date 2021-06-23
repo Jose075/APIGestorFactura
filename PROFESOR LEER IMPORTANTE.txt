@@ -11,3 +11,6 @@ cuando ejecute el programa se abrirá en el navegador, copia el link y le pone
 /api/ControladorFactura
 
 Dejaré algunas capturas de pruebas en postman y en Nswagger
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAA
